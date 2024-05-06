@@ -1,0 +1,7 @@
+Tests started 03/12/24 23:04
+
+
+REMARK: Testing standard examples...
+
+TEST:  (script-wholefile "coq/example.v")
+Unregistering file /Users/allenliao/Desktop/class/Logical Foundations/IndProp.v (not registered, no action).
